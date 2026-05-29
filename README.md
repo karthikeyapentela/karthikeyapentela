@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi 👋, I'm Karthikeya Pentela
 
-<!--
-**karthikeyapentela/karthikeyapentela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | Frontend Developer | Web Developer
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 B.Tech Student at VVIT
+* 🌱 Learning Full Stack Development
+* 💡 Interested in React.js, Node.js and MongoDB
+* 🔭 Building AI-powered web applications
+* 🎯 Goal: Become a Full Stack Developer
+
+## 🛠 Skills
+
+### Frontend
+
+HTML, CSS, JavaScript, React.js
+
+### Backend
+
+Node.js, Express.js
+
+### Database
+
+MongoDB, MySQL
+
+### Programming Languages
+
+Java, Python, C
+
+### Tools
+
+Git, GitHub, VS Code
+
+## 📂 Projects
+
+### HireMatrix AI
+
+AI-powered Resume Analysis Platform
+
+### Student Crew
+
+Campus Marketplace Platform
+
+### Tech Dost
+
+Digital Literacy Mobile App
+
+## 📫 Connect With Me
+
+Email: [pentelakarthikeya01@gmail.com](mailto:pentelakarthikeya01@gmail.com)
+
+LinkedIn:
+linkedin.com/in/karthikeyapentela
+
+Portfolio:
+v0-karthikeyapentela.vercel.app
